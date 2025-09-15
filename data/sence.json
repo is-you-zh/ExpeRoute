@@ -1,0 +1,183 @@
+[
+    {
+      "categories": ["Travel", "Mapping"],
+      "reason": "Travel 需要路线规划和地理定位，Mapping 提供地图与导航服务，两者结合可协同支持旅行安排。"
+    },
+    {
+      "categories": ["Weather", "Transportation"],
+      "reason": "天气状况直接影响交通出行，这两类结合能提供更安全的出行方案。"
+    },
+    {
+      "categories": ["Entertainment", "Social"],
+      "reason": "娱乐内容和社交平台结合，可以推动用户互动和内容分享。"
+    },
+    {
+      "categories": ["News_Media", "Text_Analysis"],
+      "reason": "新闻内容可以通过文本分析获取情感、话题趋势等深度信息。"
+    },
+    {
+      "categories": ["Email", "SMS"],
+      "reason": "电子邮件和短信是互补的通信工具，用于覆盖不同渠道的通知需求。"
+    },
+    {
+      "categories": ["Education", "Video_Images"],
+      "reason": "教育场景中结合视频和图片能提高学习效果和教学互动。"
+    },
+    {
+      "categories": ["Gaming", "Social"],
+      "reason": "游戏结合社交元素可以增强用户黏性和多玩家互动体验。"
+    },
+    {
+      "categories": ["Jobs", "Database"],
+      "reason": "招聘系统需要数据库支持来存储职位、简历和匹配结果。"
+    },
+    {
+      "categories": ["Commerce", "Advertising"],
+      "reason": "商业活动和广告密不可分，广告能驱动产品销售。"
+    },
+    {
+      "categories": ["Medical", "Search"],
+      "reason": "医疗信息查询结合搜索工具帮助用户快速找到可靠的健康信息。"
+    },
+    {
+      "categories": ["Science", "Data"],
+      "reason": "科学研究高度依赖数据分析，这两类结合有助于研究和发现。"
+    },
+    {
+      "categories": ["Translation", "Communication"],
+      "reason": "跨语言交流需要翻译服务和通讯工具的结合。"
+    },
+    {
+      "categories": ["Health_and_Fitness", "Data"],
+      "reason": "健康监测依赖数据分析，帮助用户跟踪身体状况。"
+    },
+    {
+      "categories": ["Food", "Logistics"],
+      "reason": "外卖配送涉及食品服务和物流调度的协同。"
+    },
+    {
+      "categories": ["Transportation", "Location"],
+      "reason": "运输调度需要位置跟踪信息支持。"
+    },
+    {
+      "categories": ["Entertainment", "Video_Images"],
+      "reason": "娱乐内容结合视频和图像更丰富。"
+    },
+    {
+      "categories": ["Business", "Financial"],
+      "reason": "企业运营依赖金融服务和财务管理。"
+    },
+    {
+      "categories": ["Education", "Tools"],
+      "reason": "教育平台结合工具提升学习效率。"
+    },
+    {
+      "categories": ["Sports", "News_Media"],
+      "reason": "体育赛事新闻需要媒体实时报道。"
+    },
+    {
+      "categories": ["Commerce", "eCommerce"],
+      "reason": "商业与电子商务结合满足线上线下需求。"
+    },
+    {
+      "categories": ["Food", "Health_and_Fitness"],
+      "reason": "饮食和健康管理密切相关。"
+    },
+    {
+      "categories": ["Advertising", "Social"],
+      "reason": "社交平台是广告投放的重要渠道。"
+    },
+    {
+      "categories": ["Medical", "Data"],
+      "reason": "医疗服务需要数据支持决策。"
+    },
+    {
+      "categories": ["Music", "Entertainment"],
+      "reason": "音乐是娱乐内容的重要组成部分。"
+    },
+    {
+      "categories": ["Energy", "Data"],
+      "reason": "能源管理与监控需要实时数据采集与分析。"
+    },
+    {
+      "categories": ["Artificial_Intelligence_Machine_Learning", "Visual_Recognition"],
+      "reason": "视觉识别系统常依赖人工智能与机器学习模型提升识别精度。"
+    },
+    {
+      "categories": ["Business_Software", "Finance"],
+      "reason": "企业软件和财务功能集成可提升管理效率与财务透明度。"
+    },
+    {
+      "categories": ["Communication", "Events"],
+      "reason": "活动组织需要高效的沟通工具协调各方资源与进程。"
+    },
+    {
+      "categories": ["Education", "Artificial_Intelligence_Machine_Learning"],
+      "reason": "教育场景中引入 AI 可实现个性化学习与自动评估。"
+    },
+    {
+      "categories": ["Music", "Social"],
+      "reason": "音乐分享与互动在社交平台上具有强粘性与传播力。"
+    },
+    {
+      "categories": ["Logistics", "Mapping"],
+      "reason": "物流调度与运输路径优化高度依赖地理地图服务。"
+    },
+    {
+      "categories": ["Database", "Business"],
+      "reason": "企业运营中需要数据库支撑客户、订单与运营数据管理。"
+    },
+    {
+      "categories": ["Location", "Events"],
+      "reason": "活动举办通常依赖地理位置数据进行场地选择、导航指引与本地化服务。"
+    },
+    {
+      "categories": ["Movies", "Entertainment"],
+      "reason": "电影是娱乐内容的重要组成，结合后能支持观影推荐、内容聚合与互动体验。"
+    },
+    {
+      "categories": ["Other", "Tools"],
+      "reason": "无法归类的通用服务可以通过工具类 API 灵活集成，提升系统的适配与扩展能力。"
+    },
+    {
+      "categories": ["Location", "Logistics"],
+      "reason": "物流调度和包裹配送必须实时追踪地理位置数据以确保运输效率。"
+    },
+    {
+      "categories": ["Movies", "Social"],
+      "reason": "电影评论、分享与讨论常通过社交平台传播，二者结合提升内容传播力。"
+    },
+    {
+      "categories": ["Media", "Visual_Recognition"],
+      "reason": "媒体平台可结合视觉识别技术对图像或视频内容进行智能分类与过滤。"
+    },
+    {
+      "categories": ["Other", "Business_Software"],
+      "reason": "一些特殊行业需求可通过集成其他类服务与企业软件解决方案实现功能拓展。"
+    },
+    {
+      "categories": ["Events", "Location", "Communication"],
+      "reason": "活动组织通常依赖地点信息与实时沟通协调，三者结合有助于提升活动效率与参与体验。"
+    },
+    {
+      "categories": ["Movies", "Media", "Artificial_Intelligence_Machine_Learning"],
+      "reason": "影视内容通过媒体传播并借助AI进行推荐、剪辑或观众分析，三者形成良性互动。"
+    },
+    {
+      "categories": ["Energy", "Business_Software", "Data"],
+      "reason": "能源企业通过数据驱动的企业软件优化能耗管理与运营效率，三者高度互补。"
+    },
+    {
+      "categories": ["Education", "Artificial_Intelligence_Machine_Learning", "Tools"],
+      "reason": "教育结合AI与工具可实现个性化学习路径与自动评估，提高教学效率。"
+    },
+    {
+      "categories": ["Location", "Logistics", "Mapping"],
+      "reason": "物流依赖实时地理位置和地图服务，实现高效的运输路径规划与配送。"
+    },
+    {
+      "categories": ["News_Media", "Text_Analysis", "Social"],
+      "reason": "媒体内容通过文本分析提取舆情趋势，再结合社交传播扩大影响力。"
+    }
+
+]
